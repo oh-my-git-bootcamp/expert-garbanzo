@@ -1,1 +1,1 @@
-Qui sono su develop
+Questo progetto è un ERP
